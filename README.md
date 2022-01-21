@@ -1,0 +1,1 @@
+This is a practice project to become fomfortable with bootstrap5. In this porject pure HTML, little/inline CSS and Bootstrap5. It is deployed using github live site.
